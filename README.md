@@ -57,7 +57,7 @@ The dataset features highly imbalanced class distributions that mimic real-world
 MetaFraud is constructed via a multi-phase generation pipeline inside OpenSim. User behaviors are modeled using empirical keystroke dynamics and social rhythms.
 
 <p align="center">
-  <img src="images/metafraud_pipeline_schema.png" width="800" alt="MetaFraud Pipeline Schema" />
+  <img src="images/Pipeline_Diagram.png" width="800" alt="MetaFraud Pipeline Schema" />
 </p>
 
 ---
