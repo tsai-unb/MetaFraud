@@ -24,7 +24,6 @@ MetaFraud is distributed in a dual-format representation to serve diverse resear
 | Financial Transactions (Edges) | 74,671 |
 | Behavioral Interactions (Events) | 230,490 |
 | Transaction Endpoints | 936 |
-| Data Collection Duration | 24 Hours |
 
 ### Class Distributions
 
