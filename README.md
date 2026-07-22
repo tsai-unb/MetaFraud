@@ -132,11 +132,15 @@ MetaFraud supports four key benchmark tasks to test detection and learning algor
 
 If you use this dataset or benchmark in your research, please cite our paper:
 
+**APA:**
+Hemel, R. I., Hallaji, E., & Razavi-Far, R. (2026). TSAI-MetaFraud: a benchmark dataset for financial fraud transaction and behavioral risk detection in metaverse ecosystems. *arXiv (Cornell University)*. https://doi.org/10.48550/arXiv.2607.09528
+
+**BibTeX:**
 ```bibtex
 @article{MetaFraud_2026,
   title={TSAI-MetaFraud: a benchmark dataset for financial fraud transaction and behavioral risk detection in metaverse ecosystems},
-  url={https://doi.org/10.48550/arxiv.2607.09528},
-  DOI={10.48550/arxiv.2607.09528},
+  url={https://doi.org/10.48550/arXiv.2607.09528},
+  DOI={10.48550/arXiv.2607.09528},
   journal={arXiv (Cornell University)},
   author={Hemel, Refat Ishrak and Hallaji, Ehsan and Razavi-Far, Roozbeh},
   year={2026},
