@@ -157,6 +157,6 @@ Released by:
 * Ehsan Hallaji
 * Roozbeh Razavi-Far
 
-Developed at TSAI Lab (Trustworthy Smart Analytics & Intelligence Lab).
+Developed at TSAI Lab (Trustworthy and Secure AI Lab).
 
 For inquiries or collaborations, contact: [refatishrak.hemel@unb.ca](mailto:refatishrak.hemel@unb.ca) or [tsai@unb.ca](mailto:tsai@unb.ca).
